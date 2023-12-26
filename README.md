@@ -1,20 +1,92 @@
-# 💫 About Me:
-🔭 I’m currently building Flutter Applications.<br>🌱 I’m currently a student.<br>👯 I’m in love to learn new technologies.<br>🤔 console.log("Abhi Aor Kya Batau Mein 🤔 ").
+<p align="center">
+  <a href="https://github.com/ad956"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></a>
+</p>
 
+<a href="https://komarev.com/ghpvc/?username=ad956">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ad956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anu_956) 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ad956&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad956&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://ad956.com">Anand Suthar</a></b>
+        </samp>
+</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Anand+Suthar">「 Google Me 」</a>
+    <br>
+    「 I am a full stack developer from <b><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhyb2o0ZWowMG11aW94dWpsM2hpOWZ2Zm4yYmQwZzRhNmdoZ2FlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QsgF8ZcGwwZjUOJf3d/giphy.gif" height="20" /> </b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
+<p align="center">
+ <a href="https://github.com/ad956" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" />
+ </a>
+ <a href="https://www.linkedin.com/in/anand-suthar-72133b208/om/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ad956"/>
+ </a>
 
----
-[![](https://visitcount.itsvg.in/api?id=ad956&icon=0&color=0)](https://visitcount.itsvg.in)
+ <a href="https://twitter.com/_ad956" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/_anu_956" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ad956" />
+ </a> 
+ <a href="https://www.facebook.com/ad956/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ad956"  />
+  </a> 
+</p>
+<br />
+
+<!-- About Section -->
+
+# About me
+
+<div align="center">
+<p>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: ad956.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/ad956/ad956/issues)
+</p>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nestjs,tailwind,redux,js,ts,flutter,dart,mysql,git,androidstudio,docker,googlecloud,firebase,redis,graphql,linux,nginx,github,cpp&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+
+<br/>
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ad956">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ad956">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=radical" alt="Anand's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/ad956"><img alt="Anand's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ad956&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ad956"><img alt="Anand's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ad956&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
