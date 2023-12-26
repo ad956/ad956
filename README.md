@@ -19,7 +19,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Anand+Suthar">「 Google Me 」</a>
     <br>
-    「 I am a full stack developer from <b><img align="center" src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-india-day-background-png-image-download-5.png" height="30" /> </b> 」
+    「 I am a full stack developer from <b><img align="center" src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-india-day-background-png-image-download-5.png" height="30" width="50" /> </b> 」
     <br>
     <br>
   </samp>
