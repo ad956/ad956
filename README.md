@@ -61,7 +61,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nestjs,tailwind,redux,js,ts,flutter,dart,mysql,git,androidstudio,docker,googlecloud,firebase,redis,graphql,linux,nginx,github,cpp&perline=15&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nestjs,tailwind,redux,js,ts,flutter,dart,mysql,git,androidstudio,docker,googlecloud,firebase,redis,graphql,linux,nginx,github,cpp&perline=5&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
 
 <br/>
 <br/>
