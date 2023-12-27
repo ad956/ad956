@@ -6,7 +6,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ad956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0/project/018caa89-40bd-48ba-9efd-431343486c0a.svg)](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0/project/018caa89-40bd-48ba-9efd-431343486c0a)
+[![wakatime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0.svg)](https://wakatime.com/@018ca6f5-ed20-4167-a56f-0ceefd84c7d0)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -30,17 +30,17 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" />
  </a>
  <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ad956"/>
+  <img src="assets/linkedin.png" alt="ad956"/>
  </a>
 
  <a href="https://twitter.com/_ad956" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="assets/twitter.png" />
  </a>
  <a href="https://instagram.com/_anu_956" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ad956" />
+  <img src="assets/instagram.png" alt="ad956" />
  </a> 
  <a href="https://www.facebook.com/ad956/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ad956"  />
+  <img src="assets/facebook.png" alt="ad956"  />
   </a> 
 </p>
 <br />
