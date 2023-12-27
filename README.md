@@ -29,7 +29,7 @@
  <a href="https://github.com/ad956" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" />
  </a>
- <a href="https://www.linkedin.com/in/anand-suthar-72133b208/om/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ad956"/>
  </a>
 
@@ -48,15 +48,12 @@
 <!-- About Section -->
 
 # About me
-
-<div align="center">
 <p>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: ad956.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/ad956/ad956/issues)
 </p>
-</div>
 
 <br/>
 <br/>
