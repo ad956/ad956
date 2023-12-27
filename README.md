@@ -39,7 +39,7 @@
     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" alt="ad956" />
   </a> 
   <a href="https://www.facebook.com/ad956/" target="_blank">
- <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" alt="ad956" />]
+   <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" alt="ad956" />
   </a> 
 </p>
 <br />
