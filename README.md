@@ -50,19 +50,22 @@
 #### 🌱 What I'm Learning
 I'm currently focused on mastering:
 
-- <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="30" width="30" style="margin-right: 10px;" />
-    Docker and DevOps practices for efficient and scalable deployments.
+- <div align="left">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="25" width="25" alt="Docker Icon" />
+    &nbsp;
+    <span style="font-size: 16px; font-weight: bold;">Docker and DevOps practices:</span> Efficient and scalable deployments.
   </div>
 
-- <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=nest&theme=dark" height="30" width="30" style="margin-right: 10px;" />
-    Exploring Nest.js and microservices architecture to enhance backend development.
+- <div align="left">
+    <img src="https://skillicons.dev/icons?i=nest&theme=dark" height="25" width="25" alt="Nest.js Icon" />
+    &nbsp;
+    <span style="font-size: 16px; font-weight: bold;">Exploring Nest.js and microservices architecture:</span> Enhancing backend development.
   </div>
 
-- <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="30" width="30" style="margin-right: 10px;" />
-  Improving my skills in GraphQL for more efficient and flexible API development.
+- <div align="left">
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="25" width="25" alt="GraphQL Icon" />
+  &nbsp;
+  <span style="font-size: 16px; font-weight: bold;">Improving skills in GraphQL:</span> Efficient and flexible API development.
 </div>
 
 <br/>
