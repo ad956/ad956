@@ -25,9 +25,6 @@
   </samp>
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <!-- <a href="https://github.com/ad956" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" height="30" width="50" />
-  </a> -->
   <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="100" width="100" />
   </a>
@@ -46,12 +43,18 @@
 <!-- About Section -->
 
 # About me
-<p>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ad956.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/ad956/ad956/issues)
-</p>
+#### 💼 What I Do
+
+- 👨‍💻 I am a Full Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) and Flutter.
+- 🚀 I'm passionate about creating innovative solutions and have hands-on experience building projects and products across various technologies.
+
+#### 🌱 What I'm Learning
+
+I'm currently focused on mastering:
+
+- 🐳 Docker and DevOps practices for efficient and scalable deployments.
+- 🚀 Exploring Nest.js and microservices architecture to enhance backend development.
+- 🌐 Improving my skills in GraphQL for more efficient and flexible API development.
 
 <br/>
 <br/>
