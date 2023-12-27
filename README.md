@@ -28,16 +28,16 @@
   <!-- <a href="https://github.com/ad956" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" height="30" width="50" />
   </a> -->
-  <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
+  <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="100" width="100" />
   </a>
-  <a href="https://twitter.com/_ad956" target="_blank">
+  <a href="https://twitter.com/_ad956" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="100" width="100" />
   </a>
-  <a href="https://instagram.com/_anu_956" target="_blank">
+  <a href="https://instagram.com/_anu_956" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" alt="ad956" height="100" width="100" />
   </a>
-  <a href="https://www.facebook.com/ad956/" target="_blank">
+  <a href="https://www.facebook.com/ad956/" target="_blank" style="text-decoration: none; color: inherit;">
    <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" alt="ad956" height="100" width="100" />
   </a>
 </p>
