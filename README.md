@@ -25,22 +25,21 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://github.com/ad956" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" />
- </a>
- <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
-  <img src="./assets/Linkedin.png" alt="ad956"/>
- </a>
-
- <a href="https://twitter.com/_ad956" target="_blank">
-  <img src="./assets/Twitter.png" />
- </a>
- <a href="https://instagram.com/_anu_956" target="_blank">
-  <img src="./assets/Instagram.png" alt="ad956" />
- </a> 
- <a href="https://www.facebook.com/ad956/" target="_blank">
-  <img src="./assets/Facebook.png" alt="ad956"  />
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <!-- <a href="https://github.com/ad956" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" height="30" width="50" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
+    <img src="./assets/Linkedin.png" alt="ad956"/>
+  </a>
+  <a href="https://twitter.com/_ad956" target="_blank">
+    <img src="./assets/Twitter.png" />
+  </a>
+  <a href="https://instagram.com/_anu_956" target="_blank">
+    <img src="./assets/Instagram.png" alt="ad956" />
+  </a> 
+  <a href="https://www.facebook.com/ad956/" target="_blank">
+    <img src="./assets/Facebook.png" alt="ad956" />
   </a> 
 </p>
 <br />
