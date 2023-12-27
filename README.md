@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ad956" height="30" width="50" />
   </a> -->
   <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
-    <img src="./assets/Linkedin.png" alt="ad956"/>
+   ![Image 1 Alt Text]("./assets/Linkedin.png")
   </a>
   <a href="https://twitter.com/_ad956" target="_blank">
     <img src="./assets/Twitter.png" />
