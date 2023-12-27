@@ -11,7 +11,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ad956.com">Anand Suthar</a></b>
+                <b><a target="_blank" href="https://github.com/ad956">Anand Suthar</a></b>
         </samp>
 </h3>
 <p align="center"> 
