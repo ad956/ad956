@@ -11,7 +11,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ad956.com">Anand Suthar   <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/></a></b>
+                <b><a target="_blank" href="https://ad956.com">Anand Suthar   <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50" align="center" /></a></b>
         </samp>
 </h3>
 
