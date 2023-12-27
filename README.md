@@ -14,7 +14,6 @@
                 <b><a target="_blank" href="https://ad956.com">Anand Suthar</a></b>
         </samp>
 </h3>
-
 <p align="center"> 
   <samp>
      <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/>
@@ -55,11 +54,7 @@ I'm currently focused on mastering:
 - 🐳 Docker and DevOps practices for efficient and scalable deployments.
 - 🚀 Exploring Nest.js and microservices architecture to enhance backend development.
 - 🌐 Improving my skills in GraphQL for more efficient and flexible API development.
-
 <br/>
-<br/>
-<br/>
-
 
 ## Languages and Tools
 
