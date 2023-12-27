@@ -57,9 +57,24 @@
 <br/>
 <br/>
 
+
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nestjs,tailwind,redux,js,ts,flutter,dart,mysql,git,androidstudio,docker,googlecloud,firebase,redis,graphql,linux,nginx,github,cpp&perline=10&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+### Backend Development
+
+![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,redis,graphql&perline=10&theme=dark)
+
+### Frontend Development
+
+![Frontend](https://skillicons.dev/icons?i=react,redux,js,ts,tailwind,flutter,dart&perline=10&theme=dark)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,vscode,linux,vite,jest,docker,nginx&perline=10&theme=dark)
+
+### Cloud Services
+
+![Cloud](https://skillicons.dev/icons?i=googlecloud,firebase&theme=dark)
 
 <br/>
 <br/>
