@@ -17,9 +17,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Anand+Suthar">「 Google Me 」</a>
+     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/>
     <br>
-    「 I am a full stack developer from <b><img align="center" src="https://www.freepnglogos.com/uploads/indian-flag-png/indian-flag-india-day-background-png-image-download-5.png" height="30" width="50" /> </b> 」
+    「 I am a full stack developer from <b> Vadodara, Gujarat </b> 」
     <br>
     <br>
   </samp>
