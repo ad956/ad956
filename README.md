@@ -10,12 +10,12 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp style="font-size:30px;">&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://ad956.com">Anand Suthar</a></b>
         </samp>
 </h3>
 <p align="center"> 
-  <samp style="font-size:20px;">
+  <samp>
      <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/>
     <br>
     「 I am a full stack developer from <b> Vadodara, Gujarat </b> 」
