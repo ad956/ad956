@@ -11,13 +11,15 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ad956.com">Anand Suthar   <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50" align="center" /></a></b>
+                <b><a target="_blank" href="https://ad956.com">Anand Suthar</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-<!--      <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/> -->
+     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/>
+     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/>
+     <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png"  height="50" width="50"/>
     <br>
     「 I am a full stack developer from <b> Vadodara, Gujarat </b> 」
     <br>
