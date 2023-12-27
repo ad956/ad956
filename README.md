@@ -48,12 +48,23 @@
 - 🚀 I'm passionate about creating innovative solutions and have hands-on experience building projects and products across various technologies.
 
 #### 🌱 What I'm Learning
-
 I'm currently focused on mastering:
 
-- 🐳 Docker and DevOps practices for efficient and scalable deployments.
-- 🚀 Exploring Nest.js and microservices architecture to enhance backend development.
-- 🌐 Improving my skills in GraphQL for more efficient and flexible API development.
+- <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="30" width="30" style="margin-right: 10px;" />
+    Docker and DevOps practices for efficient and scalable deployments.
+  </div>
+
+- <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=nest&theme=dark" height="30" width="30" style="margin-right: 10px;" />
+    Exploring Nest.js and microservices architecture to enhance backend development.
+  </div>
+
+- <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="30" width="30" style="margin-right: 10px;" />
+  Improving my skills in GraphQL for more efficient and flexible API development.
+</div>
+
 <br/>
 
 ## Languages and Tools
