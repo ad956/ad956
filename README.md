@@ -3,7 +3,7 @@
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0.svg)](https://wakatime.com/@018ca6f5-ed20-4167-a56f-0ceefd84c7d0)
-
+![](https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
