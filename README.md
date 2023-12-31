@@ -2,9 +2,7 @@
   <a href="https://github.com/ad956"><img height="400px" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=ad956">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ad956&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 
 [![wakatime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0.svg)](https://wakatime.com/@018ca6f5-ed20-4167-a56f-0ceefd84c7d0)
 
