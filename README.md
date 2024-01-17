@@ -93,7 +93,7 @@ I'm currently focused on mastering:
 
 <p align="center">
   <a href="https://github.com/ad956">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com/?user=ad956&theme=radical&border=7F3FBF&background=0D1117" alt="Anand's GitHub streak"/>
   </a>
 </p>
 
