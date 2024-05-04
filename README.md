@@ -80,7 +80,7 @@ I'm currently focused on mastering:
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=git,vscode,linux,vite,jest,docker,nginx&perline=10&theme=dark)
+![Tools](https://skillicons.dev/icons?i=git,vscode,linux,vite,jest,docker,githubactions,nginx&perline=10&theme=dark)
 
 ### Cloud Services
 
