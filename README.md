@@ -7,40 +7,29 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
 </a>
 <!-- Intro  -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <h3>
-      <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="https://github.com/ad956">Anand Suthar</a></b>
-      </samp>
-    </h3>
+<div align="center">
+    <h3>👋 Hey there, I'm <a href="https://github.com/ad956" target="_blank">Anand Suthar</a>!</h3>
     <p>
-      <samp>
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png" height="50" width="50"/>
-        <br>
-        「 I am a full stack developer from <b>Vadodara, Gujarat</b> 」
-        <br>
-        <br>
-      </samp>
+        🚀 Full Stack Developer from <b>Vadodara, Gujarat</b> 🇮🇳
     </p>
-    <p style="display: flex; justify-content: center; align-items: center;">
-      <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" />
-      </a>
-      <a href="https://twitter.com/_ad956" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="50" width="50" />
-      </a>
-      <a href="https://instagram.com/_anu_956" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" alt="ad956" height="50" width="50" />
-      </a>
-      <a href="https://www.facebook.com/ad956/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" alt="ad956" height="50" width="50" />
-      </a>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" alt="LinkedIn" />
+        </a>
+        <a href="https://twitter.com/_ad956" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="50" width="50" alt="Twitter" />
+        </a>
+        <a href="https://instagram.com/_anu_956" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" height="50" width="50" alt="Instagram" />
+        </a>
+        <a href="https://www.facebook.com/ad956/" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" height="50" width="50" alt="Facebook" />
+        </a>
     </p>
-  </div>
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="" style="max-width: 100%; height: auto; width: 300px;" />
-  </div>
+</div>
+
+<div align="center">
+    <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width:100%;height:auto;width:300px;" />
 </div>
 <!-- About Section -->
 
