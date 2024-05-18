@@ -6,11 +6,7 @@
 <a href="https://komarev.com/ghpvc/?username=ad956">
   <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
 </a>
-<!-- Intro  -->
-<div align="center">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: 700px; margin-top: 20px;" />
-    </div>
-    
+<!-- Intro  -->    
   <div align="center">
         <h3>
             <samp>&gt; Hey There!, I am
@@ -40,6 +36,9 @@
                 <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" height="50" width="50" alt="Facebook" />
             </a>
         </p>
+    </div>
+    <div align="center">
+        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: 500px; margin-top: 20px;" />
     </div>
 <!-- About Section -->
 
