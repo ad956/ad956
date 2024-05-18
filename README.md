@@ -78,7 +78,7 @@ I'm currently focused on mastering:
 
 ![Frontend](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,tailwind,flutter,dart&perline=10&theme=dark)
 
-### Tools
+### Tools & Technologies
 
 ![Tools](https://skillicons.dev/icons?i=git,vscode,linux,vite,jest,docker,githubactions,nginx&perline=10&theme=dark)
 
