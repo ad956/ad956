@@ -7,27 +7,31 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
 </a>
 <!-- Intro  -->
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="text-align: center;">
-        <h3>👋 Hey there, I'm <a href="https://github.com/ad956" target="_blank">Anand Suthar</a>!</h3>
-        <p>🚀 Full Stack Developer from <b>Vadodara, Gujarat</b> 🇮🇳</p>
-        <p>
-            <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
-                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" alt="LinkedIn" />
-            </a>
-            <a href="https://twitter.com/_ad956" target="_blank">
-                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="50" width="50" alt="Twitter" />
-            </a>
-            <a href="https://instagram.com/_anu_956" target="_blank">
-                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" height="50" width="50" alt="Instagram" />
-            </a>
-            <a href="https://www.facebook.com/ad956/" target="_blank">
-                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" height="50" width="50" alt="Facebook" />
-            </a>
-        </p>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1;">
+        <div align="center">
+    <h3>👋 Hey there, I'm <a href="https://github.com/ad956" target="_blank">Anand Suthar</a>!</h3>
+    <p>
+        🚀 Full Stack Developer from <b>Vadodara, Gujarat</b> 🇮🇳
+    </p>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" alt="LinkedIn" />
+        </a>
+        <a href="https://twitter.com/_ad956" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="50" width="50" alt="Twitter" />
+        </a>
+        <a href="https://instagram.com/_anu_956" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" height="50" width="50" alt="Instagram" />
+        </a>
+        <a href="https://www.facebook.com/ad956/" target="_blank">
+            <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" height="50" width="50" alt="Facebook" />
+        </a>
+    </p>
+</div>
     </div>
-    <div style="text-align: center;">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: auto; width: 300px;" />
+    <div style="flex: 1;">
+        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width:100%;height:auto;width:300px;" />
     </div>
 </div>
 <!-- About Section -->
