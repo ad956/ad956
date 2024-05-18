@@ -7,14 +7,14 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
 </a>
 <!-- Intro  -->
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; text-align:center;">
-    <div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-align: center;">
+    <div style="flex: 1; min-width: 300px;">
         <h3>
             <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/ad956">Anand Suthar</a></b>
             </samp>
         </h3>
-        <p> 
+        <p>
             <samp>
                 <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png" height="50" width="50"/>
                 <br>
@@ -38,7 +38,9 @@
             </a>
         </p>
     </div>
-    <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="" style="max-width: 100%; height: auto; width: 300px; margin-top: 20px;" />
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="" style="max-width: 100%; height: auto; width: 300px;" />
+    </div>
 </div>
 <br />
 
