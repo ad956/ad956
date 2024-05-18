@@ -8,7 +8,7 @@
 </a>
 <!-- Intro  -->
 <div align="center">
-        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: auto; margin-top: 20px;" />
+        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: 700px; margin-top: 20px;" />
     </div>
     
   <div align="center">
