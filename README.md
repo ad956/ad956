@@ -39,7 +39,7 @@
         </p>
     </div>
     <div style="flex: 1; min-width: 300px; text-align: center;">
-        <img src="https://i.pinimg.com/originals/2a/e4/80/2ae480f827920b1fcb1caeb22b95f180.gif" alt="Gojo"  />
+        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: auto; width: 300px; margin-top: 20px;" />
     </div>
 </div>
 <!-- About Section -->
