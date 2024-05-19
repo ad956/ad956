@@ -10,11 +10,11 @@
  <table>
     <tr>
         <td align="center">
-                <h3>
+                <h2>
                     <samp>&gt; Hey There!, I am
                         <b><a target="_blank" href="https://github.com/ad956">Anand Suthar</a></b>
                     </samp>
-                </h3>
+                </h2>
                 <p>
                     <samp>
                         <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png" height="50" width="50" alt="fire icon"/>
@@ -41,7 +41,7 @@
         </td>
         <td>
             <div align="center">
-                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: 500px; margin-top: 20px;" />
+                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: 450px; margin-top: 20px;" />
             </div>
         </td>
     </tr>
