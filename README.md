@@ -104,7 +104,7 @@ I'm currently focused on mastering:
 
 <hr/>
 
-<!-- <div align="center">
+ <!-- <div align="center">
   <a href="https://github.com/ad956"><img alt="Anand's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ad956&langs_count=8&layout=compact&theme=tokyonight" height="100%"/></a>
   <br/>
 </div> -->
@@ -112,10 +112,12 @@ I'm currently focused on mastering:
 | ![Anand Suthar github stats](https://github-readme-stats.vercel.app/api?username=ad956&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Anand Suthar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=tokyonight&hide_border=true&border_radius=8) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- <p align="center"> -->
+<br/>
+<p align="center">
   <a href="https://github.com/ad956">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=tokyonight&border_color=0A0209&border_radius=8" alt="Anand's GitHub Contribution" width="100%" />
   </a>
-<!-- </p> -->
+</p>
+<br/>
 
 ![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&theme=tokyo-night&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&&area=true)
