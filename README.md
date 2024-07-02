@@ -4,10 +4,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0.svg)](https://wakatime.com/@018ca6f5-ed20-4167-a56f-0ceefd84c7d0)
 <a href="https://komarev.com/ghpvc/?username=ad956">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
 </a>
 
-<!-- Intro  -->    
+<!-- Intro  -->
  <table>
    <tr>
 <img src="https://img.shields.io/badge/Throughout%20Heaven%20and%20Earth,%20I%20Alone%20Am%20The%20Honored%20One-1C1C1C?logo=airtransat"/>
@@ -54,12 +54,14 @@
 <!-- About Section -->
 
 # About me
+
 #### 💼 What I Do
 
 - 👨‍💻 I am a Full Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) and Flutter.
 - 🚀 I'm passionate about creating innovative solutions and have hands-on experience building projects and products across various technologies.
 
 #### 🌱 What I'm Learning
+
 I'm currently focused on mastering:
 
 - <div align="left">
@@ -75,10 +77,10 @@ I'm currently focused on mastering:
   </div>
 
 - <div align="left">
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="25" width="25" alt="GraphQL Icon" />
-  &nbsp;
-  <span style="font-size: 16px; font-weight: bold;">Improving skills in GraphQL:</span> Efficient and flexible API development.
-</div>
+    <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="25" width="25" alt="GraphQL Icon" />
+    &nbsp;
+    <span style="font-size: 16px; font-weight: bold;">Improving skills in GraphQL:</span> Efficient and flexible API development.
+  </div>
 
 <br/>
 
@@ -100,29 +102,20 @@ I'm currently focused on mastering:
 
 ![Cloud](https://skillicons.dev/icons?i=googlecloud,firebase&theme=dark)
 
-<br/>
-<br/>
 <hr/>
-<br/>
 
-<p align="center">
-  <a href="https://github.com/ad956">
-    <img src="https://streak-stats.demolab.com/?user=ad956&theme=radical&border=7F3FBF&background=0D1117" alt="Anand's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ad956">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=radical" alt="Anand's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/ad956"><img alt="Anand's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ad956&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ad956"><img alt="Anand's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ad956&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<!-- <div align="center">
+  <a href="https://github.com/ad956"><img alt="Anand's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ad956&langs_count=8&layout=compact&theme=tokyonight" height="100%"/></a>
   <br/>
-</a>
+</div> -->
 
-![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+| ![Anand Suthar github stats](https://github-readme-stats.vercel.app/api?username=ad956&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Anand Suthar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=tokyonight&hide_border=true&border_radius=8) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 
-  ![](https://hit.yhype.me/github/profile?user_id=85487906)
+<!-- <p align="center"> -->
+  <a href="https://github.com/ad956">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=tokyonight&border_color=0A0209&border_radius=8" alt="Anand's GitHub Contribution" width="100%" />
+  </a>
+<!-- </p> -->
+
+![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&theme=tokyo-night&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&&area=true)
