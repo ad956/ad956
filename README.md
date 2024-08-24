@@ -100,7 +100,7 @@ I'm currently focused on mastering:
 
 ### Cloud Services
 
-![Cloud](https://skillicons.dev/icons?i=googlecloud,firebase&theme=dark)
+![Cloud](https://skillicons.dev/icons?i=googlecloud,firebase,vercel&theme=dark)
 
 <hr/>
 
