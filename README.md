@@ -29,7 +29,7 @@
                     </samp>
                 </p>
                 <p style="display: flex; justify-content: center; align-items: center;">
-                    <a href="https://www.linkedin.com/in/anand-suthar-72133b208" target="_blank" style="text-decoration: none; color: inherit;">
+                    <a href="https://www.linkedin.com/in/anandsuthar956" target="_blank" style="text-decoration: none; color: inherit;">
                         <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" alt="LinkedIn" />
                     </a>
                     <a href="https://twitter.com/_ad956" target="_blank" style="text-decoration: none; color: inherit;">
