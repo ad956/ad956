@@ -7,7 +7,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
 </a>
 
-<!-- Intro  -->
+<!-- Intro -->
  <table>
    <tr>
 <img src="https://img.shields.io/badge/Throughout%20Heaven%20and%20Earth,%20I%20Alone%20Am%20The%20Honored%20One-1C1C1C?logo=airtransat"/>
