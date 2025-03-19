@@ -23,7 +23,7 @@
                     <samp>
                         <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png" height="50" width="50" alt="fire icon"/>
                         <br>
-                        「 I am a full stack developer from <b>Vadodara, Gujarat</b> 」
+                        「 I am a full stack engineer from <b>Vadodara, Gujarat</b> 」
                         <br>
                         <br>
                     </samp>
