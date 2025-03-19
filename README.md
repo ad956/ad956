@@ -86,21 +86,17 @@ I'm currently focused on mastering:
 
 ## Languages and Tools
 
-### Backend Development
+### Backend
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,redis,graphql&perline=10&theme=dark)
 
-### Frontend Development
+### Frontend
 
 ![Frontend](https://skillicons.dev/icons?i=nextjs,astro,react,redux,js,ts,tailwind,flutter,dart&perline=10&theme=dark)
 
-### Tools & Technologies
+### DevOps & Tools
 
-![Tools](https://skillicons.dev/icons?i=git,vscode,linux,vite,jest,docker,githubactions,nginx&perline=10&theme=dark)
-
-### Cloud Services
-
-![Cloud](https://skillicons.dev/icons?i=googlecloud,firebase,vercel,cloudflare&theme=dark)
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,vercel,cloudflare,linux,git&perline=10&theme=dark)
 
 <hr/>
 
