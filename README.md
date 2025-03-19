@@ -82,15 +82,15 @@ I'm currently focused on mastering:
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,redis,graphql&perline=10&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,postgres,redis,graphql&perline=10&theme=dark)
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=nextjs,astro,react,redux,js,ts,tailwind,flutter,dart&perline=10&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=nextjs,astro,react,js,ts,flutter,dart&perline=10&theme=dark)
 
 ### DevOps & Tools
 
-![Tools](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,vercel,cloudflare,linux,git&perline=10&theme=dark)
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,cloudflare,linux,git&perline=10&theme=dark)
 
 <hr/>
 
