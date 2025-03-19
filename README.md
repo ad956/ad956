@@ -53,38 +53,32 @@
 
 <!-- About Section -->
 
-# About me
+# ⚡ About me
 
-#### 💼 What I Do
+#### 💡 Problem Solver | Full Stack Engineer | Tech Enthusiast
 
-- 👨‍💻 I am a Full Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) and Flutter.
-- 🚀 I'm passionate about creating innovative solutions and have hands-on experience building projects and products across various technologies.
+- ⚡ Full Stack Engineer who loves turning ideas into real-world applications. Passionate about clean code, performance, and great user experiences. Always building, learning, and pushing boundaries!
+- 🔥 With hands-on experience in backend architectures, API design, cloud deployments, and scalable systems, I ensure that applications are not just functional but also efficient and future-proof.
 
-#### 🌱 What I'm Learning
+#### 🔧 What I Bring to the Table
+- Full Stack Expertise: From frontend interactions to backend logic, I build applications that scale.
+- Backend & APIs: REST & GraphQL, NestJS, Microservices, Redis Caching, SQL & NoSQL Databases.
+- Frontend Development: Performance-optimized UI with React, Next.js, and Flutter.
+- DevOps & Cloud: Docker, Kubernetes, CI/CD pipelines for seamless deployment and scaling.
+
+#### 🌱 What I’m Currently Exploring
 
 I'm currently focused on mastering:
 
-- <div align="left">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="25" width="25" alt="Docker Icon" />
-    &nbsp;
-    <span style="font-size: 16px; font-weight: bold;">Docker and DevOps practices:</span> Efficient and scalable deployments.
-  </div>
+- 🔥 Advanced DevOps & Cloud Architectures: Mastering Docker, Kubernetes, and CI/CD for efficient deployments.
 
-- <div align="left">
-    <img src="https://skillicons.dev/icons?i=nest&theme=dark" height="25" width="25" alt="Nest.js Icon" />
-    &nbsp;
-    <span style="font-size: 16px; font-weight: bold;">Exploring Nest.js and microservices architecture:</span> Enhancing backend development.
-  </div>
+- ⚡ Microservices & Scalable Backend Systems: Deep-diving into NestJS for high-performance distributed systems.
 
-- <div align="left">
-    <img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="25" width="25" alt="GraphQL Icon" />
-    &nbsp;
-    <span style="font-size: 16px; font-weight: bold;">Improving skills in GraphQL:</span> Efficient and flexible API development.
-  </div>
+- 🔍 Next-Level API Development: Enhancing GraphQL skills to build fast, flexible, and scalable APIs.
 
 <br/>
 
-## Languages and Tools
+# 🛠 Tech Stack
 
 ### Backend
 
