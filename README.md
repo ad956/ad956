@@ -90,7 +90,7 @@ I'm currently focused on mastering:
 
 ### DevOps & Tools
 
-![Tools](https://skillicons.dev/icons?i=docker,kubernets,as,githubactions,cloudflare,linux,git&perline=10&theme=dark)
+![Tools](https://skillicons.dev/icons?i=docker,githubactions,cloudflare,linux,git&perline=10&theme=dark)
 
 <hr/>
 
