@@ -1,113 +1,120 @@
 <p align="center">
-  <a href="https://github.com/ad956"><img height="400px" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></a>
+  <a href="https://github.com/ad956">
+    <img height="400" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animated developer workspace" />
+  </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0.svg)](https://wakatime.com/@018ca6f5-ed20-4167-a56f-0ceefd84c7d0)
+[![WakaTime](https://wakatime.com/badge/user/018ca6f5-ed20-4167-a56f-0ceefd84c7d0.svg)](https://wakatime.com/@018ca6f5-ed20-4167-a56f-0ceefd84c7d0)
 <a href="https://komarev.com/ghpvc/?username=ad956">
-<img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=ad956&color=blueviolet&style=plastic&label=Visitors" alt="Profile visitors" />
 </a>
 
-<!-- Intro -->
- <table>
-   <tr>
-<img src="https://img.shields.io/badge/Throughout%20Heaven%20and%20Earth,%20I%20Alone%20Am%20The%20Honored%20One-1C1C1C?logo=airtransat"/>
-   </tr>
-    <tr>
-        <td align="center">
-                <h2>
-                    <samp>&gt; Hey There!, I am
-                        <b><a target="_blank" href="https://github.com/ad956">Anand Suthar</a></b>
-                    </samp>
-                </h2>
-                <p>
-                    <samp>
-                        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png" height="50" width="50" alt="fire icon"/>
-                        <br>
-                        「 I am a full stack engineer from <b>Vadodara, Gujarat</b> 」
-                        <br>
-                        <br>
-                    </samp>
-                </p>
-                <p style="display: flex; justify-content: center; align-items: center;">
-                    <a href="https://www.linkedin.com/in/anandsuthar956" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" alt="LinkedIn" />
-                    </a>
-                    <a href="https://twitter.com/_ad956" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="50" width="50" alt="Twitter" />
-                    </a>
-                    <a href="https://instagram.com/_anu_956" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" height="50" width="50" alt="Instagram" />
-                    </a>
-                    <a href="https://www.facebook.com/ad956/" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" height="50" width="50" alt="Facebook" />
-                    </a>
-                </p>
-        </td>
-        <td>
-            <div align="center">
-                <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo" style="max-width: 100%; height: 450px; margin-top: 20px;" />
-            </div>
-        </td>
-    </tr>
+<div align="center">
+  <img src="https://img.shields.io/badge/Throughout%20Heaven%20and%20Earth,%20I%20Alone%20Am%20The%20Honored%20One-1C1C1C?logo=airtransat" alt="Throughout Heaven and Earth, I Alone Am The Honored One" />
+</div>
+
+<!-- Gojo-themed introduction -->
+<table>
+  <tr>
+    <td align="center" width="58%">
+      <h2>
+        <samp>&gt; Hey there! I am <b><a href="https://github.com/ad956">Anand Suthar</a></b></samp>
+      </h2>
+      <p>
+        <samp>
+          <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703676112/ffire_mjnxjr.png" height="50" width="50" alt="Fire icon" />
+          <br />
+          「 Full-Stack Software Engineer from <b>Vadodara, Gujarat</b> 」
+          <br /><br />
+          Building production web platforms, backend systems, and AI-powered automation.
+          <br /><br />
+          <a href="https://ad956.vercel.app"><b>Portfolio</b></a>
+          &nbsp;•&nbsp;
+          <a href="https://drive.google.com/file/d/1ufExcJRoVZggYukwj2GYfUx3JDe8nwa8/view?usp=sharing"><b>Résumé</b></a>
+        </samp>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/anandsuthar956">
+          <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/LinkedIn_mtl50i.png" height="50" width="50" alt="LinkedIn" />
+        </a>
+        <a href="https://twitter.com/_ad956">
+          <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674177/Twitter_mbkmve.png" height="50" width="50" alt="X / Twitter" />
+        </a>
+        <a href="https://instagram.com/_anu_956">
+          <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Instagram_k8jv1h.png" height="50" width="50" alt="Instagram" />
+        </a>
+        <a href="https://www.facebook.com/ad956/">
+          <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1703674178/Facebook_a2t78g.png" height="50" width="50" alt="Facebook" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="42%">
+      <img src="https://res.cloudinary.com/dtkfvp2ic/image/upload/v1716018319/gojo_lsohay.png" alt="Gojo Satoru" height="450" />
+    </td>
+  </tr>
 </table>
 
-<!-- About Section -->
+# ⚡ About Me
 
-# ⚡ About me
+#### Full-Stack Software Engineer | Backend Systems | AI & Automation
 
-#### 💡 Problem Solver | Full Stack Engineer | Tech Enthusiast
+- 💻 I build production-ready web platforms and backend services with a focus on clean architecture, reliability, performance, and thoughtful user experiences.
+- 🛍️ I am building **Lehari**, an e-commerce and point-of-sale platform powered by Next.js, Go, PostgreSQL, Docker Compose, and AWS.
+- 🤖 I create AI-assisted features and reusable automations using OpenAI APIs, the Vercel AI SDK, n8n, and OpenClaw agent workflows.
+- 🔄 I build API-driven integrations across business systems such as NetSuite, HubSpot, Zoho Books, and Zoho CRM.
+- 🚀 My professional and freelance projects span web applications, backend services, authentication, payments, background jobs, cloud deployments, and production optimization.
 
-- ⚡ Full Stack Engineer who loves turning ideas into real-world applications. Passionate about clean code, performance, and great user experiences. Always building, learning, and pushing boundaries!
-- 🔥 With hands-on experience in backend architectures, API design, cloud deployments, and scalable systems, I ensure that applications are not just functional but also efficient and future-proof.
+## 🔧 What I Bring to the Table
 
-#### 🔧 What I Bring to the Table
-- Full Stack Expertise: From frontend interactions to backend logic, I build applications that scale.
-- Backend & APIs: REST & GraphQL, NestJS, Microservices, Redis Caching, SQL & NoSQL Databases.
-- Frontend Development: Performance-optimized UI with React, Next.js, and Flutter.
-- DevOps & Cloud: Docker, Kubernetes, CI/CD pipelines for seamless deployment and scaling.
+- **Full-stack project development:** Responsive interfaces, backend services, authentication, payments, and maintainable application architecture.
+- **Backend and data systems:** REST APIs, asynchronous processing, Redis caching, database design, query optimization, and reliable integrations.
+- **AI and workflow automation:** Agent workflows, structured AI features, webhooks, scheduled processing, retries, and human approval checkpoints.
+- **Cloud and delivery:** Docker, AWS EC2, Kubernetes, GitHub Actions, Linux, CI/CD, debugging, and performance improvements.
 
-#### 🌱 What I’m Currently Exploring
+## 🌱 Current Focus
 
-I'm currently focused on mastering:
+- Expanding **Lehari** across online commerce, inventory, ordering, and retail POS workflows.
+- Building maintainable AI agents and multi-step automations with clear validation, observability, and human control.
+- Creating reliable API integrations and scalable backend systems for professional and freelance projects.
 
-- 🔥 Advanced DevOps & Cloud Architectures: Mastering Docker, Kubernetes, and CI/CD for efficient deployments.
-
-- ⚡ Microservices & Scalable Backend Systems: Deep-diving into NestJS for high-performance distributed systems.
-
-- 🔍 Next-Level API Development: Enhancing GraphQL skills to build fast, flexible, and scalable APIs.
-
-<br/>
+<br />
 
 # 🛠 Tech Stack
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mongodb,mysql,postgres,redis,graphql&perline=10&theme=dark)
+<p><img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs&perline=10&theme=dark" alt="Go, Node.js, Express.js, and NestJS" /></p>
+
+### AI & Automation
+
+<p><img height="48" src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel AI SDK" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" alt="OpenAI APIs" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=n8n" alt="n8n" /> <img height="48" width="48" src="https://openclaw.ai/favicon.svg" alt="OpenClaw" /></p>
+
+### Databases
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=10&theme=dark" alt="PostgreSQL, MongoDB, and Redis" /></p>
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=nextjs,astro,react,js,ts,flutter,dart&perline=10&theme=dark)
+<p><img height="48" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&perline=10&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Redux Toolkit" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn/ui" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=zustand" alt="Zustand" /></p>
 
-### DevOps & Tools
+### Infrastructure & Tools
 
-![Tools](https://skillicons.dev/icons?i=docker,githubactions,cloudflare,linux,git&perline=10&theme=dark)
+<p><img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,githubactions,linux,git&perline=10&theme=dark" alt="Docker, AWS, Kubernetes, GitHub Actions, Linux, and Git" /></p>
 
-<hr/>
+<br />
 
- <!-- <div align="center">
-  <a href="https://github.com/ad956"><img alt="Anand's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ad956&langs_count=8&layout=compact&theme=tokyonight" height="100%"/></a>
-  <br/>
-</div> -->
+<hr />
 
-| ![Anand Suthar github stats](https://github-readme-stats.vercel.app/api?username=ad956&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Anand Suthar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=tokyonight&hide_border=true&border_radius=8) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+<!-- GitHub statistics -->
+| ![Anand Suthar GitHub stats](https://github-readme-stats.vercel.app/api?username=ad956&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Anand Suthar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=tokyonight&hide_border=true&border_radius=8) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<br/>
+<br />
 <p align="center">
   <a href="https://github.com/ad956">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=tokyonight&border_color=0A0209&border_radius=8" alt="Anand's GitHub Contribution" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=tokyonight&border_color=0A0209&border_radius=8" alt="Anand's GitHub contribution summary" width="100%" />
   </a>
 </p>
-<br/>
+<br />
 
-![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&theme=tokyo-night&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&&area=true)
+![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&theme=tokyo-night&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&area=true)
