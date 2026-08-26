@@ -81,6 +81,10 @@
 
 # 🛠 Tech Stack
 
+### Frontend
+
+<p><img height="48" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&perline=10&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Redux Toolkit" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn/ui" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=zustand" alt="Zustand" /></p>
+
 ### Backend
 
 <p><img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs&perline=10&theme=dark" alt="Go, Node.js, Express.js, and NestJS" /></p>
@@ -92,10 +96,6 @@
 ### Databases
 
 <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=10&theme=dark" alt="PostgreSQL, MongoDB, and Redis" /></p>
-
-### Frontend
-
-<p><img height="48" src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&perline=10&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, and Redux Toolkit" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn/ui" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=zustand" alt="Zustand" /></p>
 
 ### Infrastructure & Tools
 
