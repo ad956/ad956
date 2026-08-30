@@ -106,4 +106,5 @@
 <hr />
 
 <!-- GitHub statistics -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ad956&show_icons=true&rank_icon=github&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=ad956&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark) &nbsp;
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ad956&theme=dark" alt="GitHub Streak" /></a>
