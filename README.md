@@ -83,7 +83,7 @@
 
 ### Frontend
 
-<p><img height="48" src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=10&theme=dark" alt="JavaScript, TypeScript, React and Next.js" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" alt="shadcn/ui" /> <img height="48" src="https://go-skill-icons.vercel.app/api/icons?i=zustand" alt="Zustand" /></p>
+<p><img height="48" src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=10&theme=dark" alt="JavaScript, TypeScript, React and Next.js" /></p>
 
 ### Backend
 
@@ -106,15 +106,4 @@
 <hr />
 
 <!-- GitHub statistics -->
-| ![Anand Suthar GitHub stats](https://github-readme-stats.vercel.app/api?username=ad956&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_color=0A0209&border_radius=8) | ![Anand Suthar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ad956&theme=tokyonight&hide_border=true&border_radius=8) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<br />
-<p align="center">
-  <a href="https://github.com/ad956">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad956&theme=tokyonight&border_color=0A0209&border_radius=8" alt="Anand's GitHub contribution summary" width="100%" />
-  </a>
-</p>
-<br />
-
-![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ad956&theme=tokyo-night&custom_title=Anand%20Suthar's%20GitHub%20Activity%20Graph&area=true)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ad956&theme=dark" alt="GitHub Streak" /></a>
