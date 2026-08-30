@@ -106,7 +106,14 @@
 <hr />
 
 <!-- GitHub statistics -->
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ad956&show_icons=true&rank_icon=github&include_all_commits=true&theme=dark" height="180" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=ad956&theme=dark" height="180" alt="GitHub Streak" hspace="10">
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=ad956&show_icons=true&rank_icon=github&include_all_commits=true&theme=dark" height="180" alt="GitHub Stats">
+    </td>
+    <td width="20"></td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ad956&theme=dark" height="180" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
